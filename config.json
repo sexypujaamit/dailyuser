@@ -2,5 +2,9 @@
   "app_1": {
     "is_enabled": true,
     "firebase_url": "https://daily-01-7ddbe-default-rtdb.firebaseio.com/"
+  },
+  "app_2": {
+    "is_enabled": true,
+    "firebase_url": "https://daily-2-b1ddc-default-rtdb.firebaseio.com/"
   }
 }
