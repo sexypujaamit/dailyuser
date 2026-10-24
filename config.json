@@ -22,5 +22,9 @@
   "app_6": {
     "is_enabled": true,
     "firebase_url": "https://daily-6-default-rtdb.firebaseio.com/"
+  },
+  "app_7": {
+    "is_enabled": true,
+    "firebase_url": "https://daily-7-2a110-default-rtdb.firebaseio.com/"
   }
 }
