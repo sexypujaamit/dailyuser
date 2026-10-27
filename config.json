@@ -134,5 +134,9 @@
   "app_18": {
     "is_enabled": true,
     "firebase_url": "https://daily-18-default-rtdb.firebaseio.com"
+  },
+  "app_19": {
+    "is_enabled": true,
+    "firebase_url": "https://daily-19-default-rtdb.firebaseio.com/"
   }
 }
