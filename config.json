@@ -118,5 +118,9 @@
     "cloud_name": "",
     "cloudinary_preset": "",
     "cloudinary_folder": ""
+  },
+  "app_15": {
+    "is_enabled": true,
+    "firebase_url": "https://daily-15-d80e9-default-rtdb.firebaseio.com/"
   }
 }
